@@ -63,4 +63,10 @@ dependencies {
 
     implementation ("androidx.compose.material:material-icons-extended:1.5.4")
 
+    // Jetpack Compose
+    implementation ("androidx.compose.material3:material3:1.2.0")
+
+// Coil for image loading
+    implementation("io.coil-kt:coil-compose:2.4.0")
+
 }
