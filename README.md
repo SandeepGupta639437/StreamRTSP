@@ -31,20 +31,16 @@
 ### 📺 Streaming & Playback Screens  
 <div align="center">
   <img src="https://github.com/user-attachments/assets/9272ed16-944c-450c-a60b-b8958f9088e5" width="200" />
-  <img src="screenshots/screen2.png" width="200" />
-  <img src="screenshots/screen3.png" width="200" />
+  <img src="https://github.com/user-attachments/assets/ed9293af-aa75-47b7-aa4c-8b6cd4869b86g" width="200" />
+  <img src="https://github.com/user-attachments/assets/97ceb54f-45cf-4fd0-8eb0-6e73eed164c6" width="200" />
+  <img src="https://github.com/user-attachments/assets/94a32d94-90b6-4e12-a4bb-85690e0bb603" width="200" />
+  <img src="https://github.com/user-attachments/assets/fe04b449-5237-4339-8d41-6721af895d9e" width="200" />
 </div>
 
 ---
 
 ## 🎥 Video Demonstration  
 🔗 [Click here to watch the demo](https://github.com/user-attachments/assets/a4760e39-e61c-425f-ab97-de35967e9bbd)
-
----
-
-
-
-
 
 ## 🚀 Getting Started  
 
