@@ -25,8 +25,7 @@
 
 ---
 
-## 📷 Screenshots  
-*(Add screenshots inside the `screenshots/` folder and update the links below)*
+## 📷 Screenshots 
 
 ### 📺 Streaming & Playback Screens  
 <div align="center">
